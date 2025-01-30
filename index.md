@@ -1,8 +1,6 @@
-
- 
 #### **Las Tierras Land Investments** #### 
 
-![Entrance](https://raw.githubusercontent.com/your-username/repository-name/main/Entrance.JPG)
+![Entrance](https://raw.githubusercontent.com/Joseg35/Las-Tierras/main/Entrance.JPG)
 
 ---
 
@@ -18,7 +16,7 @@ Hacemos que ser dueño de tu propio terreno sea fácil y accesible. Ya sea que b
 
 ## **¿Por Qué Elegir un Terreno de 5 Acres Cerca de Brownsville, TX?**  
 
-![Birds](https://raw.githubusercontent.com/your-username/repository-name/main/birds.JPG)
+![Birds](https://raw.githubusercontent.com/Joseg35/Las-Tierras/main/birds.JPG)
 
 - **Ideal para un Pequeño Rancho** – Cría animales, cultiva o construye tu refugio familiar.  
 - **Privacidad y Libertad** – Espacio suficiente para disfrutar sin vecinos cerca.  
@@ -30,7 +28,7 @@ Hacemos que ser dueño de tu propio terreno sea fácil y accesible. Ya sea que b
 
 ## **Empieza Hoy Mismo**  
 
-![Painting](https://raw.githubusercontent.com/your-username/repository-name/main/painting.PNG)
+![Painting](https://raw.githubusercontent.com/Joseg35/Las-Tierras/main/painting.PNG)
 
 1. **Elige tu lote**  
 2. **Paga un pequeño enganche**  
@@ -43,6 +41,7 @@ Correo Electrónico: [LasTierrasLandInvestments@gmail.com]
 ---
 
 **No esperes más. Estos lotes de 5 acres se venden rápido.**  
+
 
 
 
