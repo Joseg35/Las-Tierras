@@ -1,5 +1,4 @@
-# **LAS TIERRAS LAND INVESTMENTS**  
-### **Sin Bancos • Sin Verificación de Crédito • Financiamiento Fácil**  
+ ### **Sin Bancos • Sin Verificación de Crédito • Financiamiento Fácil**  
 
 ## **¿Por Qué Comprar con Las Tierras Land Investments?**  
 Hacemos que ser dueño de tu propio terreno sea fácil y accesible. Ya sea que busques un rancho familiar para los fines de semana, una inversión segura o simplemente un lugar para desconectarte, nuestros lotes de 5 acres cerca de Brownsville, TX, son la mejor opción.  
