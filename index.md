@@ -25,7 +25,7 @@ Hacemos que ser dueño de tu propio terreno sea fácil y accesible. Ya sea que b
 3. **Comienza a pagar con mensualidades accesibles**  
 
 **Llámanos o envía un mensaje ahora:**  
-Teléfono: [956-371-9425]  
+Teléfono: [956-238-3814]  
 Correo Electrónico: [LasTierrasLandInvestments@gmail.com]  
  
 
