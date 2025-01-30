@@ -1,4 +1,5 @@
 #### **Las Tierras Land Investments** #### 
+<img src="4x4.jpeg" alt="4x4 Title Image" width="100%">
 
 ![Entrance](https://raw.githubusercontent.com/Joseg35/Las-Tierras/main/Entrance.JPG)
 
