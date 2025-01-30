@@ -1,68 +1,86 @@
-#### **Las Tierras Land Investments** #### 
+# **Las Tierras Land Investments**  
 
-<img src="https://raw.githubusercontent.com/Joseg35/Las-Tierras/main/4x4.jpeg" alt="4x4 Title Image" width="80%">
+![4x4 Title Image](https://raw.githubusercontent.com/Joseg35/Las-Tierras/main/4x4.jpeg)  
 
-<img src="https://raw.githubusercontent.com/Joseg35/Las-Tierras/main/Entrance.JPG" alt="Entrance" width="70%">
+## **Tu Propio Terreno en el Sur de Texas**  
 
----
+![Entrance](https://raw.githubusercontent.com/Joseg35/Las-Tierras/main/Entrance.JPG)  
 
-## **¿Por Qué Comprar con Las Tierras Land Investments?**  
-
-Hacemos que ser dueño de tu propio terreno sea fácil y accesible.  
-
-- **Financiamiento Directo con el Propietario** – Sin bancos ni trámites complicados.  
-- **Sin Verificación de Crédito** – Todos califican.  
-- **Pagos Accesibles y Planes Flexibles** – Propiedad a tu alcance con mensualidades cómodas.  
-- **Título Claro y Proceso Rápido** – Compra sin preocupaciones, sin tarifas ocultas.  
-
-<img src="https://raw.githubusercontent.com/Joseg35/Las-Tierras/main/FullSizeRender%2017.jpg" alt="Land Image 1" width="50%">
-<img src="https://raw.githubusercontent.com/Joseg35/Las-Tierras/main/FullSizeRender%206.jpg" alt="Land Image 2" width="50%">
+Descubre la libertad de poseer un terreno de 5 acres cerca de Brownsville, TX. Ya sea para inversión, recreación o tu hogar ideal, **Las Tierras Land Investments** lo hace fácil y accesible.  
 
 ---
 
-## **¿Por Qué Elegir un Terreno de 5 Acres Cerca de Brownsville, TX?**  
+## **¿Por Qué Comprar con Nosotros?**  
 
-<img src="https://raw.githubusercontent.com/Joseg35/Las-Tierras/main/FullSizeRender%2020.jpg" alt="Birds" width="60%">
+Hacemos que ser dueño de tu propio terreno sea simple y sin complicaciones:  
 
-- **Ideal para un Pequeño Rancho** – Cría animales, cultiva o construye tu refugio familiar.  
-- **Privacidad y Libertad** – Espacio suficiente para disfrutar sin vecinos cerca.  
-- **Perfecto para Escapadas de Fin de Semana** – Acampa, monta cuatrimotos, caza o relájate en la naturaleza.  
-- **Gran Inversión** – El valor de la tierra en el sur de Texas sigue aumentando. Aprovecha ahora.  
-- **Ubicación Estratégica** – A pocos minutos de Brownsville, con carreteras y servicios cercanos.  
+✅ **Financiamiento Directo con el Propietario** – Sin bancos ni trámites engorrosos.  
+✅ **Sin Verificación de Crédito** – Todos califican.  
+✅ **Pagos Accesibles y Flexibles** – Planes diseñados para ajustarse a tu presupuesto.  
+✅ **Proceso Rápido y Transparente** – Sin tarifas ocultas, con título claro.  
 
-<img src="https://raw.githubusercontent.com/Joseg35/Las-Tierras/main/IMG_0666.jpg" alt="Land Image 3" width="50%">
-<img src="https://raw.githubusercontent.com/Joseg35/Las-Tierras/main/IMG_0692.jpg" alt="Land Image 4" width="50%">
+![Land Image 1](https://raw.githubusercontent.com/Joseg35/Las-Tierras/main/FullSizeRender%2017.jpg)  
+![Land Image 2](https://raw.githubusercontent.com/Joseg35/Las-Tierras/main/FullSizeRender%206.jpg)  
+
+---
+
+## **¿Por Qué Elegir un Terreno de 5 Acres Cerca de Brownsville?**  
+
+![Birds](https://raw.githubusercontent.com/Joseg35/Las-Tierras/main/FullSizeRender%2020.jpg)  
+
+✔ **Ideal para un Pequeño Rancho** – Perfecto para agricultura, ganadería o un hogar autosustentable.  
+✔ **Privacidad y Espacio** – Disfruta sin vecinos cerca.  
+✔ **Oportunidades Recreativas** – Acampa, monta cuatrimotos, caza o relájate al aire libre.  
+✔ **Gran Potencial de Inversión** – La tierra en el sur de Texas sigue aumentando su valor.  
+✔ **Ubicación Estratégica** – Accesible, con carreteras y servicios cercanos.  
+
+![Land Image 3](https://raw.githubusercontent.com/Joseg35/Las-Tierras/main/IMG_0666.jpg)  
+![Land Image 4](https://raw.githubusercontent.com/Joseg35/Las-Tierras/main/IMG_0692.jpg)  
 
 ---
 
 ## **Empieza Hoy Mismo**  
 
-<img src="https://raw.githubusercontent.com/Joseg35/Las-Tierras/main/IMG_0686.jpg" alt="Land Image 5" width="70%">
-<img src="https://raw.githubusercontent.com/Joseg35/Las-Tierras/main/IMG_0693.jpg" alt="Land Image 6" width="50%">
-<img src="https://raw.githubusercontent.com/Joseg35/Las-Tierras/main/IMG_0694.jpg" alt="Land Image 7" width="50%">
+![Land Image 5](https://raw.githubusercontent.com/Joseg35/Las-Tierras/main/IMG_0686.jpg)  
 
-1. **Elige tu lote**  
-2. **Paga un pequeño enganche**  
-3. **Comienza a pagar con mensualidades accesibles**  
+**El proceso es fácil y rápido:**  
 
-<img src="https://raw.githubusercontent.com/Joseg35/Las-Tierras/main/IMG_0691.jpg" alt="Land Image 8" width="50%">
-<img src="https://raw.githubusercontent.com/Joseg35/Las-Tierras/main/IMG_0696.jpg" alt="Land Image 9" width="60%">
-<img src="https://raw.githubusercontent.com/Joseg35/Las-Tierras/main/IMG_0700.jpg" alt="Land Image 10" width="50%">
+1️⃣ **Elige tu lote**  
+2️⃣ **Haz un pequeño pago inicial**  
+3️⃣ **Comienza a pagar con mensualidades accesibles**  
 
-**Llámanos o envía un mensaje ahora:**  
-Teléfono: [956-238-3814]  
-Correo Electrónico: [LasTierrasLandInvestments@gmail.com]  
+📞 **Llámanos o envía un mensaje ahora:**  
+📲 **Teléfono:** [956-238-3814]  
+📧 **Correo Electrónico:** [LasTierrasLandInvestments@gmail.com]  
 
 ---
 
-<img src="https://raw.githubusercontent.com/Joseg35/Las-Tierras/main/IMG_0960.jpg" alt="Land Image 11" width="60%">
-<img src="https://raw.githubusercontent.com/Joseg35/Las-Tierras/main/IMG_0962.jpg" alt="Land Image 12" width="50%">
-<img src="https://raw.githubusercontent.com/Joseg35/Las-Tierras/main/birds.JPG" alt="Birds 2" width="70%">
-<img src="https://raw.githubusercontent.com/Joseg35/Las-Tierras/main/painting.PNG" alt="Painting" width="50%">
+## **Más Imágenes**  
 
-**No esperes más. Estos lotes de 5 acres se venden rápido.**
+![Land Image 6](https://raw.githubusercontent.com/Joseg35/Las-Tierras/main/IMG_0693.jpg)  
+![Land Image 7](https://raw.githubusercontent.com/Joseg35/Las-Tierras/main/IMG_0694.jpg)  
 
+![Land Image 8](https://raw.githubusercontent.com/Joseg35/Las-Tierras/main/IMG_0691.jpg)  
+![Land Image 9](https://raw.githubusercontent.com/Joseg35/Las-Tierras/main/IMG_0696.jpg)  
 
+![Land Image 10](https://raw.githubusercontent.com/Joseg35/Las-Tierras/main/IMG_0700.jpg)  
+
+---
+
+## **No Esperes Más**  
+
+🌿 **Propiedades de 5 acres a precios accesibles**  
+📍 **Cerca de Brownsville, TX**  
+🏡 **Gran oportunidad para inversión, recreación o un nuevo comienzo**  
+
+📞 **Contáctanos hoy mismo antes de que se agoten los lotes disponibles.**  
+
+![Land Image 11](https://raw.githubusercontent.com/Joseg35/Las-Tierras/main/IMG_0960.jpg)  
+![Land Image 12](https://raw.githubusercontent.com/Joseg35/Las-Tierras/main/IMG_0962.jpg)  
+
+![Birds 2](https://raw.githubusercontent.com/Joseg35/Las-Tierras/main/birds.JPG)  
+
+**📲 Llama o envía un mensaje ahora: [956-238-3814]**  
 
 
 
