@@ -43,14 +43,16 @@ Hacemos que ser dueño de tu propio terreno sea fácil y accesible.
 <img src="https://raw.githubusercontent.com/Joseg35/Las-Tierras/main/IMG_0691.jpg" alt="Land Image 4" width="60%">
 
 **Llámanos o envía un mensaje ahora:**  
-Teléfono: [956-238-3814]  
-Correo Electrónico: [LasTierrasLandInvestments@gmail.com]  
+Teléfono: 956-238-3814  
+Correo Electrónico: LasTierrasLandInvestments@gmail.com  
 
 ---
 
 <img src="https://raw.githubusercontent.com/Joseg35/Las-Tierras/main/IMG_0960.jpg" alt="Land Image 5" width="80%">
 
 **No esperes más. Estos lotes de 5 acres se venden rápido.**
+
+
 
 
 
