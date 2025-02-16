@@ -71,33 +71,8 @@
 
         .image-container img {
             width: 100%;
-            height: 300px;
-            object-fit: cover;
+            height: auto;
             transition: transform 0.3s ease;
-        }
-
-        .image-container:hover img {
-            transform: scale(1.05);
-        }
-
-        .featured-image {
-            height: 400px;
-        }
-
-        .cta-button {
-            display: inline-block;
-            background-color: #e74c3c;
-            color: white;
-            padding: 1rem 2rem;
-            text-decoration: none;
-            border-radius: 4px;
-            font-weight: bold;
-            margin-top: 1rem;
-            transition: background-color 0.3s ease;
-        }
-
-        .cta-button:hover {
-            background-color: #c0392b;
         }
 
         @media (max-width: 768px) {
@@ -112,14 +87,6 @@
             h2 {
                 font-size: 1.5rem;
             }
-
-            .image-container img {
-                height: 250px;
-            }
-
-            .featured-image {
-                height: 300px;
-            }
         }
     </style>
 </head>
@@ -133,8 +100,14 @@
             <h2>Tu Refugio de Libertad y Aventura</h2>
             <p>Imagina 5 acres para construir tu rancho recreativo: cabalga por senderos, diseña una cabaña acogedora y haz unas carnitas asadas con famila. Aquí no solo hay espacio, sino libertad para crear recuerdos en ATV, junto a una fogata familiar o explorando la vida silvestre. Cada día es una oportunidad para reconectar con la naturaleza y alejarte del ruido de la ciudad.</p>
             
-            <div class="image-container featured-image">
-                <img src="https://raw.githubusercontent.com/Joseg35/Las-Tierras/main/4x4.jpeg" alt="4x4 Title Image">
+            <div class="image-container">
+                <img src="https://raw.githubusercontent.com/YourUsername/YourRepo/main/WhatsApp%20Image%202024-07-02%20at%2010.41.45%20AM.jpg" alt="Image 1">
+            </div>
+            <div class="image-container">
+                <img src="https://raw.githubusercontent.com/YourUsername/YourRepo/main/WhatsApp%20Image%202024-07-02%20at%2010.41.46%20AM.jpg" alt="Image 2">
+            </div>
+            <div class="image-container">
+                <img src="https://raw.githubusercontent.com/YourUsername/YourRepo/main/WhatsApp%20Image%202024-07-02%20at%2010.41.46%20AM%20(1).jpg" alt="Image 3">
             </div>
         </section>
 
@@ -142,16 +115,20 @@
             <h2>Inversión en Experiencias</h2>
             <p>Esta tierra no solo aumentará su valor, sino que te dará tranquilidad, seguridad y un patrimonio para las futuras generaciones. Explora o acampa en tu propio paraíso privado. No es solo un terreno, es un estilo de vida donde el aire puro y la libertad lo son todo.</p>
             
-            <div class="image-grid">
-                <div class="image-container">
-                    <img src="https://raw.githubusercontent.com/Joseg35/Las-Tierras/main/Entrance.JPG" alt="Entrance">
-                </div>
-                <div class="image-container">
-                    <img src="https://raw.githubusercontent.com/Joseg35/Las-Tierras/main/FullSizeRender%2017.jpg" alt="Land Image 1">
-                </div>
-                <div class="image-container">
-                    <img src="https://raw.githubusercontent.com/Joseg35/Las-Tierras/main/FullSizeRender%206.jpg" alt="Land Image 2">
-                </div>
+            <div class="image-container">
+                <img src="https://raw.githubusercontent.com/Joseg35/Las-Tierras/main/4x4.jpeg" alt="4x4 Title Image">
+            </div>
+            <div class="image-container">
+                <img src="https://raw.githubusercontent.com/Joseg35/Las-Tierras/main/Entrance.JPG" alt="Entrance">
+            </div>
+            <div class="image-container">
+                <img src="https://raw.githubusercontent.com/Joseg35/Las-Tierras/main/FullSizeRender%2017.jpg" alt="Land Image 1">
+            </div>
+            <div class="image-container">
+                <img src="https://raw.githubusercontent.com/Joseg35/Las-Tierras/main/FullSizeRender%206.jpg" alt="Land Image 2">
+            </div>
+            <div class="image-container">
+                <img src="https://raw.githubusercontent.com/Joseg35/Las-Tierras/main/FullSizeRender%2020.jpg" alt="Birds">
             </div>
         </section>
 
@@ -159,44 +136,43 @@
             <h2>Actúa Ahora no Pierda la Oportunidad</h2>
             <p>Terrenos así son tesoros escasos en un mundo que se urbaniza rápido; los lotes vuelan. No dejes que otros se adelanten y tomen el escape soñado que podría ser tuyo.</p>
             
-            <div class="image-grid">
-                <div class="image-container">
-                    <img src="https://raw.githubusercontent.com/Joseg35/Las-Tierras/main/IMG_0666.jpg" alt="Land Image 3">
-                </div>
-                <div class="image-container">
-                    <img src="https://raw.githubusercontent.com/Joseg35/Las-Tierras/main/IMG_0692.jpg" alt="Land Image 4">
-                </div>
-                <div class="image-container">
-                    <img src="https://raw.githubusercontent.com/Joseg35/Las-Tierras/main/IMG_0686.jpg" alt="Land Image 5">
-                </div>
-                <div class="image-container">
-                    <img src="https://raw.githubusercontent.com/Joseg35/Las-Tierras/main/birds.JPG" alt="Birds 2">
-                </div>
+            <div class="image-container">
+                <img src="https://raw.githubusercontent.com/Joseg35/Las-Tierras/main/IMG_0666.jpg" alt="Land Image 3">
             </div>
-
-            <a href="#contact" class="cta-button">Contacta Ahora</a>
-        </section>
-
-        <section class="section">
-            <div class="image-grid">
-                <div class="image-container">
-                    <img src="https://raw.githubusercontent.com/Joseg35/Las-Tierras/main/IMG_0693.jpg" alt="Land Image 6">
-                </div>
-                <div class="image-container">
-                    <img src="https://raw.githubusercontent.com/Joseg35/Las-Tierras/main/IMG_0694.jpg" alt="Land Image 7">
-                </div>
-                <div class="image-container">
-                    <img src="https://raw.githubusercontent.com/Joseg35/Las-Tierras/main/IMG_0691.jpg" alt="Land Image 8">
-                </div>
-                <div class="image-container">
-                    <img src="https://raw.githubusercontent.com/Joseg35/Las-Tierras/main/IMG_0696.jpg" alt="Land Image 9">
-                </div>
+            <div class="image-container">
+                <img src="https://raw.githubusercontent.com/Joseg35/Las-Tierras/main/IMG_0692.jpg" alt="Land Image 4">
+            </div>
+            <div class="image-container">
+                <img src="https://raw.githubusercontent.com/Joseg35/Las-Tierras/main/IMG_0686.jpg" alt="Land Image 5">
+            </div>
+            <div class="image-container">
+                <img src="https://raw.githubusercontent.com/Joseg35/Las-Tierras/main/IMG_0693.jpg" alt="Land Image 6">
+            </div>
+            <div class="image-container">
+                <img src="https://raw.githubusercontent.com/Joseg35/Las-Tierras/main/IMG_0694.jpg" alt="Land Image 7">
+            </div>
+            <div class="image-container">
+                <img src="https://raw.githubusercontent.com/Joseg35/Las-Tierras/main/IMG_0691.jpg" alt="Land Image 8">
+            </div>
+            <div class="image-container">
+                <img src="https://raw.githubusercontent.com/Joseg35/Las-Tierras/main/IMG_0696.jpg" alt="Land Image 9">
+            </div>
+            <div class="image-container">
+                <img src="https://raw.githubusercontent.com/Joseg35/Las-Tierras/main/IMG_0700.jpg" alt="Land Image 10">
+            </div>
+            <div class="image-container">
+                <img src="https://raw.githubusercontent.com/Joseg35/Las-Tierras/main/IMG_0960.jpg" alt="Land Image 11">
+            </div>
+            <div class="image-container">
+                <img src="https://raw.githubusercontent.com/Joseg35/Las-Tierras/main/IMG_0962.jpg" alt="Land Image 12">
+            </div>
+            <div class="image-container">
+                <img src="https://raw.githubusercontent.com/Joseg35/Las-Tierras/main/birds.JPG" alt="Birds 2">
             </div>
         </section>
     </div>
 </body>
 </html>
-
 
  
 
