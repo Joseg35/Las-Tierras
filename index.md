@@ -99,7 +99,7 @@
 </head>
 <body>
     <header>
-        <h1>Tu Refugio de Libertad y Aventura</h1>
+        <h1>"Tus 5 Acres Te Esperan"</h1>
     </header>
 
     <div class="container">
@@ -126,13 +126,16 @@
             
             <div class="image-grid">
                 <div class="image-container">
-                    <img src="https://raw.githubusercontent.com/Joseg35/Las-Tierras/main/4x4.jpg" alt="4x4 Title Image">
+                    <img src="https://raw.githubusercontent.com/Joseg35/Las-Tierras/main/land_sunset.jpg" alt="Land Sunset">
                 </div>
                 <div class="image-container">
-                    <img src="https://raw.githubusercontent.com/Joseg35/Las-Tierras/main/Entrance.jpg" alt="Entrance">
+                    <img src="https://raw.githubusercontent.com/Joseg35/Las-Tierras/main/nature_trail.jpg" alt="Nature Trail">
                 </div>
                 <div class="image-container">
-                    <img src="https://raw.githubusercontent.com/Joseg35/Las-Tierras/main/Land_Image_1.jpg" alt="Land Image 1">
+                    <img src="https://raw.githubusercontent.com/Joseg35/Las-Tierras/main/camping_spot.jpg" alt="Camping Spot">
+                </div>
+                <div class="image-container">
+                    <img src="https://raw.githubusercontent.com/Joseg35/Las-Tierras/main/wildlife_view.jpg" alt="Wildlife View">
                 </div>
             </div>
         </section>
@@ -152,6 +155,9 @@
                     <img src="https://raw.githubusercontent.com/Joseg35/Las-Tierras/main/IMG_0686.jpg" alt="Land Image 5">
                 </div>
             </div>
+        </section>
+    </div>
+
         </section>
     </div>
 </body>
