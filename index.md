@@ -92,7 +92,7 @@
     <!-- Section 1: Main Message & Land Images -->
     <section class="section">
       <h2>Tu Refugio de Libertad y Aventura</h2>
-      <p>Imagina 5 acres para construir tu rancho recreativo: cabalga por senderos, diseña una cabaña acogedora y haz unas carnitas asadas con familia. Aquí no solo hay espacio, sino libertad para crear recuerdos en ATV, junto a una fogata familiar o explorando la vida silvestre.</p>
+      <p>Imagina 5 acres para tu propio rancho de descanso, monta tu caballo por los senderos, construye una cabaña y disfruta de unas carnitas asadas con la familia. Aquí no solo hay espacio, sino la libertad de vivir grandes momentos en tu rancho, alrededor de una fogata o explorando la naturaleza.</p>
       <div class="image-grid">
         <div class="image-container">
           <img src="https://raw.githubusercontent.com/Joseg35/Las-Tierras/main/land_image_1.jpeg" alt="Land Image 1">
