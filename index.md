@@ -126,11 +126,48 @@
             
             <div class="image-grid">
                 <div class="image-container">
-                    <img src="https://raw.githubusercontent.com/Joseg35/Las-Tierras/main/camping_spot.jpg" alt="Camping Spot">
+                    <img src="https://raw.githubusercontent.com/Joseg35/Las-Tierras/main/land_10.jpg" alt="Land 10">
+                </div>
+                <div class="image-container">
+                    <img src="https://raw.githubusercontent.com/Joseg35/Las-Tierras/main/wildlife_view.jpg" alt="Wildlife View">
                 </div>
             </div>
         </section>
 
         <section class="section">
             <h2>Actúa Ahora no Pierdas la Oportunidad</h2>
-            <p>Terrenos así son tesoros escasos en un mundo que se urbaniza rápido; l
+            <p>Terrenos así son tesoros escasos en un mundo que se urbaniza rápido; los lotes vuelan. No dejes que otros se adelanten y tomen el escape soñado que podría ser tuyo.</p>
+            
+            <div class="image-grid">
+                <div class="image-container"><img src="https://raw.githubusercontent.com/Joseg35/Las-Tierras/main/IMG_0666.jpg" alt="Land Image"></div>
+                <div class="image-container"><img src="https://raw.githubusercontent.com/Joseg35/Las-Tierras/main/IMG_0686.jpg" alt="Land Image"></div>
+                <div class="image-container"><img src="https://raw.githubusercontent.com/Joseg35/Las-Tierras/main/IMG_0691.jpg" alt="Land Image"></div>
+                <div class="image-container"><img src="https://raw.githubusercontent.com/Joseg35/Las-Tierras/main/IMG_0692.jpg" alt="Land Image"></div>
+                <div class="image-container"><img src="https://raw.githubusercontent.com/Joseg35/Las-Tierras/main/IMG_0693.jpg" alt="Land Image"></div>
+                <div class="image-container"><img src="https://raw.githubusercontent.com/Joseg35/Las-Tierras/main/IMG_0694.jpg" alt="Land Image"></div>
+                <div class="image-container"><img src="https://raw.githubusercontent.com/Joseg35/Las-Tierras/main/IMG_0696.jpg" alt="Land Image"></div>
+                <div class="image-container"><img src="https://raw.githubusercontent.com/Joseg35/Las-Tierras/main/IMG_0700.jpg" alt="Land Image"></div>
+                <div class="image-container"><img src="https://raw.githubusercontent.com/Joseg35/Las-Tierras/main/IMG_0960.jpg" alt="Land Image"></div>
+                <div class="image-container"><img src="https://raw.githubusercontent.com/Joseg35/Las-Tierras/main/IMG_0962.jpg" alt="Land Image"></div>
+            </div>
+        </section>
+
+        <section class="section">
+            <h2>Explora Más</h2>
+            <div class="video-container">
+                <video controls width="100%">
+                    <source src="https://raw.githubusercontent.com/Joseg35/Las-Tierras/main/ranch_view.mp4" type="video/mp4">
+                    Tu navegador no soporta el video.
+                </video>
+            </div>
+        </section>
+
+        <section class="section">
+            <h2>Arte de la Naturaleza</h2>
+            <div class="image-container">
+                <img src="https://raw.githubusercontent.com/Joseg35/Las-Tierras/main/painting.PNG" alt="Nature Painting">
+            </div>
+        </section>
+    </div>
+</body>
+</html>
