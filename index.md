@@ -109,13 +109,13 @@
             
             <div class="image-grid">
                 <div class="image-container">
-                    <img src="https://raw.githubusercontent.com/Joseg35/Las-Tierras/main/WhatsApp_Image_2024-07-02_10-41-45_AM.jpeg" alt="Image 1">
+                    <img src="https://raw.githubusercontent.com/Joseg35/Las-Tierras/main/land_image_1.jpeg" alt="Land Image 1">
                 </div>
                 <div class="image-container">
-                    <img src="https://raw.githubusercontent.com/Joseg35/Las-Tierras/main/WhatsApp_Image_2024-07-02_10-41-46_AM.jpeg" alt="Image 2">
+                    <img src="https://raw.githubusercontent.com/Joseg35/Las-Tierras/main/land_image_2.jpeg" alt="Land Image 2">
                 </div>
                 <div class="image-container">
-                    <img src="https://raw.githubusercontent.com/Joseg35/Las-Tierras/main/WhatsApp_Image_2024-07-02_10-41-46_AM_1.jpeg" alt="Image 3">
+                    <img src="https://raw.githubusercontent.com/Joseg35/Las-Tierras/main/land_image_3.jpeg" alt="Land Image 3">
                 </div>
             </div>
         </section>
@@ -146,6 +146,15 @@
                     <img src="https://raw.githubusercontent.com/Joseg35/Las-Tierras/main/IMG_0666.jpg" alt="Land Image 3">
                 </div>
                 <div class="image-container">
-                    <img src="http
+                    <img src="https://raw.githubusercontent.com/Joseg35/Las-Tierras/main/IMG_0692.jpg" alt="Land Image 4">
+                </div>
+                <div class="image-container">
+                    <img src="https://raw.githubusercontent.com/Joseg35/Las-Tierras/main/IMG_0686.jpg" alt="Land Image 5">
+                </div>
+            </div>
+        </section>
+    </div>
+</body>
+</html>
 
 
