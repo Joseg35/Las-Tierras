@@ -1,48 +1,201 @@
-
 <!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Rancho Recreativo - Tu Refugio</title>
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="styles.css">
+    <title>Tu Refugio de Libertad y Aventura</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background-color: #f5f5f5;
+        }
+
+        header {
+            background-color: #2c3e50;
+            color: white;
+            text-align: center;
+            padding: 2rem 1rem;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 2rem;
+        }
+
+        .section {
+            background-color: white;
+            border-radius: 8px;
+            padding: 2rem;
+            margin-bottom: 2rem;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+
+        h1 {
+            font-size: 2.5rem;
+            margin-bottom: 1rem;
+        }
+
+        h2 {
+            color: #2c3e50;
+            margin-bottom: 1.5rem;
+            font-size: 2rem;
+        }
+
+        p {
+            margin-bottom: 1.5rem;
+            font-size: 1.1rem;
+        }
+
+        .image-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 1.5rem;
+            margin-top: 2rem;
+        }
+
+        .image-container {
+            position: relative;
+            overflow: hidden;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+
+        .image-container img {
+            width: 100%;
+            height: 300px;
+            object-fit: cover;
+            transition: transform 0.3s ease;
+        }
+
+        .image-container:hover img {
+            transform: scale(1.05);
+        }
+
+        .featured-image {
+            height: 400px;
+        }
+
+        .cta-button {
+            display: inline-block;
+            background-color: #e74c3c;
+            color: white;
+            padding: 1rem 2rem;
+            text-decoration: none;
+            border-radius: 4px;
+            font-weight: bold;
+            margin-top: 1rem;
+            transition: background-color 0.3s ease;
+        }
+
+        .cta-button:hover {
+            background-color: #c0392b;
+        }
+
+        @media (max-width: 768px) {
+            .container {
+                padding: 1rem;
+            }
+
+            h1 {
+                font-size: 2rem;
+            }
+
+            h2 {
+                font-size: 1.5rem;
+            }
+
+            .image-container img {
+                height: 250px;
+            }
+
+            .featured-image {
+                height: 300px;
+            }
+        }
+    </style>
 </head>
 <body>
-    <header class="header">
-        <div class="container text-center">
-            <h1 class="display-4">Tu Refugio de Libertad y Aventura</h1>
-            <p class="lead">Imagina 5 acres para construir tu rancho recreativo: cabalga por senderos, diseña una cabaña acogedora y haz unas carnitas asadas con familia.</p>
-        </div>
+    <header>
+        <h1>Tu Refugio de Libertad y Aventura</h1>
     </header>
 
-    <main class="container">
-        <section class="my-5">
-            <div class="row">
-                <div class="col-md-8 mx-auto">
-                    <h2 class="mb-4">Vive la Experiencia</h2>
-                    <p class="fs-5">Aquí no solo hay espacio, sino libertad para crear recuerdos en ATV, junto a una fogata familiar o explorando la vida silvestre. Cada día es una oportunidad para reconectar con la naturaleza.</p>
+    <div class="container">
+        <section class="section">
+            <h2>Tu Refugio de Libertad y Aventura</h2>
+            <p>Imagina 5 acres para construir tu rancho recreativo: cabalga por senderos, diseña una cabaña acogedora y haz unas carnitas asadas con famila. Aquí no solo hay espacio, sino libertad para crear recuerdos en ATV, junto a una fogata familiar o explorando la vida silvestre. Cada día es una oportunidad para reconectar con la naturaleza y alejarte del ruido de la ciudad.</p>
+            
+            <div class="image-container featured-image">
+                <img src="https://raw.githubusercontent.com/Joseg35/Las-Tierras/main/4x4.jpeg" alt="4x4 Title Image">
+            </div>
+        </section>
+
+        <section class="section">
+            <h2>Inversión en Experiencias</h2>
+            <p>Esta tierra no solo aumentará su valor, sino que te dará tranquilidad, seguridad y un patrimonio para las futuras generaciones. Explora o acampa en tu propio paraíso privado. No es solo un terreno, es un estilo de vida donde el aire puro y la libertad lo son todo.</p>
+            
+            <div class="image-grid">
+                <div class="image-container">
+                    <img src="https://raw.githubusercontent.com/Joseg35/Las-Tierras/main/Entrance.JPG" alt="Entrance">
+                </div>
+                <div class="image-container">
+                    <img src="https://raw.githubusercontent.com/Joseg35/Las-Tierras/main/FullSizeRender%2017.jpg" alt="Land Image 1">
+                </div>
+                <div class="image-container">
+                    <img src="https://raw.githubusercontent.com/Joseg35/Las-Tierras/main/FullSizeRender%206.jpg" alt="Land Image 2">
                 </div>
             </div>
         </section>
 
-        <section class="my-5">
-            <div class="row">
-                <div class="col-md-8 mx-auto">
-                    <h2 class="mb-4">Inversión en Experiencias</h2>
-                    <p class="fs-5">Esta tierra te dará tranquilidad, seguridad y un patrimonio para futuras generaciones. Explora tu propio paraíso privado donde el aire puro y la libertad lo son todo.</p>
+        <section class="section">
+            <h2>Actúa Ahora no Pierda la Oportunidad</h2>
+            <p>Terrenos así son tesoros escasos en un mundo que se urbaniza rápido; los lotes vuelan. No dejes que otros se adelanten y tomen el escape soñado que podría ser tuyo.</p>
+            
+            <div class="image-grid">
+                <div class="image-container">
+                    <img src="https://raw.githubusercontent.com/Joseg35/Las-Tierras/main/IMG_0666.jpg" alt="Land Image 3">
+                </div>
+                <div class="image-container">
+                    <img src="https://raw.githubusercontent.com/Joseg35/Las-Tierras/main/IMG_0692.jpg" alt="Land Image 4">
+                </div>
+                <div class="image-container">
+                    <img src="https://raw.githubusercontent.com/Joseg35/Las-Tierras/main/IMG_0686.jpg" alt="Land Image 5">
+                </div>
+                <div class="image-container">
+                    <img src="https://raw.githubusercontent.com/Joseg35/Las-Tierras/main/birds.JPG" alt="Birds 2">
+                </div>
+            </div>
+
+            <a href="#contact" class="cta-button">Contacta Ahora</a>
+        </section>
+
+        <section class="section">
+            <div class="image-grid">
+                <div class="image-container">
+                    <img src="https://raw.githubusercontent.com/Joseg35/Las-Tierras/main/IMG_0693.jpg" alt="Land Image 6">
+                </div>
+                <div class="image-container">
+                    <img src="https://raw.githubusercontent.com/Joseg35/Las-Tierras/main/IMG_0694.jpg" alt="Land Image 7">
+                </div>
+                <div class="image-container">
+                    <img src="https://raw.githubusercontent.com/Joseg35/Las-Tierras/main/IMG_0691.jpg" alt="Land Image 8">
+                </div>
+                <div class="image-container">
+                    <img src="https://raw.githubusercontent.com/Joseg35/Las-Tierras/main/IMG_0696.jpg" alt="Land Image 9">
                 </div>
             </div>
         </section>
-
-        <section class="my-5">
-            <div class="row">
-                <div class="col-md-8 mx-auto">
-                    &lt
-
-
-
-
+    </div>
+</body>
+</html>
 
 
  
