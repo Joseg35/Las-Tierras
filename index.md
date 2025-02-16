@@ -140,8 +140,8 @@
 
     <!-- Section 4: Video from Google Drive -->
     <section class="section">
-      <h2>Explora Más</h2>
-      <p>Descubre más sobre esta tierra única a través del video.</p>
+      <h2>Lo Que Les Espera</h2>
+      <p>4x4</p>
       <div class="video-container">
         <iframe width="100%" height="400" src="https://drive.google.com/file/d/1RWEytkznXQzWD5RdID1gNYpAyHfMAgYb/preview" allow="autoplay"></iframe>
       </div>
@@ -149,7 +149,7 @@
 
     <!-- Section 5: Artwork -->
     <section class="section">
-      <h2>Arte de la Naturaleza</h2>
+      <h2>Las Tierras Land Investments</h2>
       <div class="image-container">
         <img src="https://raw.githubusercontent.com/Joseg35/Las-Tierras/main/painting.PNG" alt="Nature Painting">
       </div>
