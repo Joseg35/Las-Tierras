@@ -126,46 +126,11 @@
             
             <div class="image-grid">
                 <div class="image-container">
-                    <img src="https://raw.githubusercontent.com/Joseg35/Las-Tierras/main/land_sunset.jpg" alt="Land Sunset">
-                </div>
-                <div class="image-container">
-                    <img src="https://raw.githubusercontent.com/Joseg35/Las-Tierras/main/nature_trail.jpg" alt="Nature Trail">
-                </div>
-                <div class="image-container">
                     <img src="https://raw.githubusercontent.com/Joseg35/Las-Tierras/main/camping_spot.jpg" alt="Camping Spot">
-                </div>
-                <div class="image-container">
-                    <img src="https://raw.githubusercontent.com/Joseg35/Las-Tierras/main/wildlife_view.jpg" alt="Wildlife View">
                 </div>
             </div>
         </section>
 
         <section class="section">
             <h2>Actúa Ahora no Pierdas la Oportunidad</h2>
-            <p>Terrenos así son tesoros escasos en un mundo que se urbaniza rápido; los lotes vuelan. No dejes que otros se adelanten y tomen el escape soñado que podría ser tuyo.</p>
-            
-            <div class="image-grid">
-                <div class="image-container">
-                    <img src="https://raw.githubusercontent.com/Joseg35/Las-Tierras/main/IMG_0666.jpg" alt="Land Image 3">
-                </div>
-                <div class="image-container">
-                    <img src="https://raw.githubusercontent.com/Joseg35/Las-Tierras/main/IMG_0692.jpg" alt="Land Image 4">
-                </div>
-                <div class="image-container">
-                    <img src="https://raw.githubusercontent.com/Joseg35/Las-Tierras/main/IMG_0686.jpg" alt="Land Image 5">
-                </div>
-                <div class="image-container">
-                    <img src="https://raw.githubusercontent.com/Joseg35/Las-Tierras/main/4x4.jpg" alt="4x4 Adventure">
-                </div>
-                <div class="image-container">
-                    <img src="https://raw.githubusercontent.com/Joseg35/Las-Tierras/main/entrance.jpg" alt="Entrance View">
-                </div>
-                <div class="image-container">
-                    <img src="https://raw.githubusercontent.com/Joseg35/Las-Tierras/main/birds.JPG" alt="Birds View">
-                </div>
-            </div>
-        </section>
-    </div>
-</body>
-</html>
-
+            <p>Terrenos así son tesoros escasos en un mundo que se urbaniza rápido; l
