@@ -140,7 +140,7 @@
 
     <!-- Section 4: Video from Google Drive -->
     <section class="section">
-      <h2>Lo Que Les Espera</h2>
+      <h2>Lo que les Espera</h2>
       <p>4x4</p>
       <div class="video-container">
         <iframe width="100%" height="400" src="https://drive.google.com/file/d/1RWEytkznXQzWD5RdID1gNYpAyHfMAgYb/preview" allow="autoplay"></iframe>
