@@ -126,13 +126,13 @@
             
             <div class="image-grid">
                 <div class="image-container">
-                    <img src="https://raw.githubusercontent.com/Joseg35/Las-Tierras/main/4x4.jpeg" alt="4x4 Title Image">
+                    <img src="https://raw.githubusercontent.com/Joseg35/Las-Tierras/main/4x4.jpg" alt="4x4 Title Image">
                 </div>
                 <div class="image-container">
-                    <img src="https://raw.githubusercontent.com/Joseg35/Las-Tierras/main/Entrance.JPG" alt="Entrance">
+                    <img src="https://raw.githubusercontent.com/Joseg35/Las-Tierras/main/Entrance.jpg" alt="Entrance">
                 </div>
                 <div class="image-container">
-                    <img src="https://raw.githubusercontent.com/Joseg35/Las-Tierras/main/FullSizeRender_17.jpg" alt="Land Image 1">
+                    <img src="https://raw.githubusercontent.com/Joseg35/Las-Tierras/main/Land_Image_1.jpg" alt="Land Image 1">
                 </div>
             </div>
         </section>
@@ -150,15 +150,6 @@
                 </div>
                 <div class="image-container">
                     <img src="https://raw.githubusercontent.com/Joseg35/Las-Tierras/main/IMG_0686.jpg" alt="Land Image 5">
-                </div>
-                <div class="image-container">
-                    <img src="https://raw.githubusercontent.com/Joseg35/Las-Tierras/main/IMG_0693.jpg" alt="Land Image 6">
-                </div>
-                <div class="image-container">
-                    <img src="https://raw.githubusercontent.com/Joseg35/Las-Tierras/main/IMG_0694.jpg" alt="Land Image 7">
-                </div>
-                <div class="image-container">
-                    <img src="https://raw.githubusercontent.com/Joseg35/Las-Tierras/main/IMG_0691.jpg" alt="Land Image 8">
                 </div>
             </div>
         </section>
