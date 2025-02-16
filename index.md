@@ -99,7 +99,7 @@
 </head>
 <body>
     <header>
-        <h1>"Tus 5 Acres Te Esperan"</h1>
+        <h1>Tu Refugio de Libertad y Aventura</h1>
     </header>
 
     <div class="container">
@@ -154,13 +154,18 @@
                 <div class="image-container">
                     <img src="https://raw.githubusercontent.com/Joseg35/Las-Tierras/main/IMG_0686.jpg" alt="Land Image 5">
                 </div>
+                <div class="image-container">
+                    <img src="https://raw.githubusercontent.com/Joseg35/Las-Tierras/main/4x4.jpg" alt="4x4 Adventure">
+                </div>
+                <div class="image-container">
+                    <img src="https://raw.githubusercontent.com/Joseg35/Las-Tierras/main/entrance.jpg" alt="Entrance View">
+                </div>
+                <div class="image-container">
+                    <img src="https://raw.githubusercontent.com/Joseg35/Las-Tierras/main/birds.JPG" alt="Birds View">
+                </div>
             </div>
-        </section>
-    </div>
-
         </section>
     </div>
 </body>
 </html>
-
 
