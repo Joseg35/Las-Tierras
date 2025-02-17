@@ -1,9 +1,8 @@
-<!DOCTYPE html>
 <html lang="es">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Tu Refugio de Libertad y Aventura</title>
+  <title>Lotes En Venta De 5 Acres</title>
   <style>
     /* Global Resets & Defaults */
     * {
@@ -109,8 +108,8 @@
   <div class="container">
     <!-- Section 1: Main Message & Land Images -->
     <section class="section">
-      <h2>Tu Refugio de Libertad y Aventura</h2>
-      <p>Imagina 5 acres para tu propio rancho de descanso, monta tu caballo por los senderos, construye una cabaña y disfruta de unas carnitas asadas con la familia. Aquí no solo hay espacio, sino la libertad de vivir grandes momentos alrededor de una fogata o explorando la naturaleza.</p>
+      <h2>Libertad Y Aventura</h2>
+      <p>Imagina 5 acres para tu propio rancho de descanso, monta tu caballo por los senderos, construye una cabaña y disfruta de unas carnitas asadas con la familia. Aquí no solo hay espacio, sino la libertad de vivir grandes momentos alrededor de una fogata con tu familia.</p>
       <div class="image-grid">
         <div class="image-container">
           <img src="land_image_1.jpeg" alt="Land Image 1">
@@ -126,8 +125,8 @@
 
     <!-- Section 2: Investment Experience -->
     <section class="section">
-      <h2>Inversión en Experiencias</h2>
-      <p>Esta tierra no solo aumentará su valor, sino que te dará tranquilidad, seguridad y un patrimonio para las futuras generaciones. Explora o acampa en tu propio paraíso privado.</p>
+      <h2>Experiencias</h2>
+      <p>Explora o acampa en tu propio paraíso privado</p>
       <div class="image-grid">
         <div class="image-container">
           <img src="land_10.jpg" alt="Land 10">
@@ -140,8 +139,8 @@
 
     <!-- Section 3: Act Now -->
     <section class="section">
-      <h2>Actúa Ahora, no Pierdas la Oportunidad</h2>
-      <p>Terrenos así son tesoros escasos en un mundo que se urbaniza rápido; los lotes vuelan. No dejes que otros se adelanten y tomen el escape soñado que podría ser tuyo.</p>
+      <h2>Lotes Disponibles, Pero No Por Mucho Tiempo</h2>
+      <p>Escoje tu lote pronto!.</p>
       <div class="image-grid">
         <div class="image-container"><img src="IMG_0666.jpg" alt="Land Image"></div>
         <div class="image-container"><img src="IMG_0686.jpg" alt="Land Image"></div>
