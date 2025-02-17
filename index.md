@@ -102,7 +102,7 @@
 </head>
 <body>
   <header>
-    <h1>Tu Refugio de Libertad y Aventura</h1>
+    <h1>Lotes En Venta De 5 Acres</h1>
   </header>
 
   <div class="container">
@@ -140,7 +140,7 @@
     <!-- Section 3: Act Now -->
     <section class="section">
       <h2>Lotes Disponibles, Pero No Por Mucho Tiempo</h2>
-      <p>Escoje tu lote pronto!.</p>
+      <p>Escoje tu lote pronto!</p>
       <div class="image-grid">
         <div class="image-container"><img src="IMG_0666.jpg" alt="Land Image"></div>
         <div class="image-container"><img src="IMG_0686.jpg" alt="Land Image"></div>
@@ -158,7 +158,7 @@
     <!-- Section 4: Video from Google Drive -->
     <section class="section">
       <h2>Lo que les Espera</h2>
-      <p>¡Descubre la adrenalina y la emoción del terreno con 4x4!</p>
+      <p>¡Descubre la adrenalina y la emoción de tener 5 acres</p>
       <div class="video-container">
         <!-- If you want fullscreen support, add: allowfullscreen -->
         <iframe
