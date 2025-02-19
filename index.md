@@ -162,10 +162,15 @@
       <div class="video-container">
         <!-- If you want fullscreen support, add: allowfullscreen -->
         <iframe
-          src="https://drive.google.com/file/d/1RWEytkznXQzWD5RdID1gNYpAyHfMAgYb/preview"
-          allow="autoplay"
-          title="Video Preview">
-        </iframe>
+    src="https://drive.google.com/file/d/1RCnAt18aZtZuJiooEHwaxEjazsiTjS_v/preview"
+    allow="autoplay"
+    title="Video Preview"
+    width="640"
+    height="360"
+    frameborder="0"
+    allowfullscreen>
+</iframe>
+
       </div>
     </section>
 
