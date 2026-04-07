@@ -1,12 +1,16 @@
-<!DOCTYPE html>
+ <!DOCTYPE html>
   <html lang="es">
   <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Lotes En Venta De 5 Acres</title>
+    <meta name="description" content="Lotes de 5 acres rodeados de naturaleza,
+  espacio y tranquilidad para disfrutar grandes momentos en familia.">
+    <style>
+      :root {
         --bg: #efe7d6;
         --bg-soft: #f7f2e8;
-        --surface: rgba(255, 250, 241, 0.9);
+        --surface: rgba(255, 250, 241, 0.92);
         --text: #2f241b;
         --muted: #6d5a4b;
         --accent: #b86a2f;
@@ -21,6 +25,10 @@
         margin: 0;
         padding: 0;
         box-sizing: border-box;
+      }
+
+      html {
+        scroll-behavior: smooth;
       }
 
       body {
@@ -57,7 +65,8 @@
         display: grid;
         align-items: end;
         background:
-          linear-gradient(to top, rgba(25, 18, 12, 0.72), rgba(25, 18, 12, 0.16)),
+          linear-gradient(to top, rgba(25, 18, 12, 0.72), rgba(25, 18, 12,
+  0.16)),
           url("land_image_1.jpeg") center center / cover no-repeat;
         box-shadow: var(--shadow);
         isolation: isolate;
@@ -223,7 +232,8 @@
         text-align: center;
         padding: 2.2rem 1.5rem;
         background:
-          linear-gradient(135deg, rgba(184,106,47,0.12), rgba(91,107,60,0.08)),
+          linear-gradient(135deg, rgba(184,106,47,0.12),
+  rgba(91,107,60,0.08)),
           #fff8ee;
       }
 
@@ -291,8 +301,9 @@
           <span class="eyebrow">Espacio, Naturaleza, Libertad</span>
           <h1>Lotes En Venta De 5 Acres</h1>
           <p>
-            Un lugar para desconectarte, disfrutar con tu familia y construir recuerdos
-            alrededor del campo, el cielo abierto y la tranquilidad.
+            Un lugar para desconectarte, disfrutar con tu familia y construir
+  recuerdos
+            rodeado de campo, cielo abierto y tranquilidad.
           </p>
         </div>
       </section>
@@ -303,19 +314,23 @@
         <div class="section-header">
           <h2>Libertad Y Aventura</h2>
           <p>
-            Imagina tu propio espacio para montar a caballo, construir una cabaña,
-            disfrutar una fogata y vivir fines de semana rodeado de naturaleza.
+            Imagina tu propio espacio para montar a caballo, construir una
+  cabaña,
+            disfrutar una fogata y vivir fines de semana rodeado de
+  naturaleza.
           </p>
         </div>
 
         <div class="split">
           <div class="feature-card">
-            <img src="land_image_2.jpeg" alt="Vista amplia del terreno con paisaje natural">
+            <img src="land_image_2.jpeg" alt="Vista amplia del terreno con
+  paisaje natural">
           </div>
           <div class="feature-text">
             <strong>Un lugar para crear momentos</strong>
             <p>
-              Aquí no solo hay terreno. Hay espacio para respirar, reunirte con los tuyos
+              Aquí no solo hay terreno. Hay espacio para respirar, reunirte
+  con los tuyos
               y disfrutar experiencias sencillas que se vuelven inolvidables.
             </p>
           </div>
@@ -326,17 +341,20 @@
         <div class="section-header">
           <h2>Galería Del Terreno</h2>
           <p>
-            Una colección más cuidada de imágenes hace que la página se sienta más premium
-            y menos como una lista improvisada de fotos.
+            Una presentación más limpia y visual para mostrar mejor la belleza
+  y la amplitud
+            de estos lotes.
           </p>
         </div>
 
         <div class="gallery">
           <div class="tile large">
-            <img src="land_image_1.jpeg" alt="Vista principal del lote en venta">
+            <img src="land_image_1.jpeg" alt="Vista principal del lote en
+  venta">
           </div>
           <div class="tile medium">
-            <img src="land_image_3.jpeg" alt="Terreno abierto con vegetación natural">
+            <img src="land_image_3.jpeg" alt="Terreno abierto con vegetación
+  natural">
           </div>
           <div class="tile small">
             <img src="IMG_0666.jpg" alt="Paisaje del lote bajo cielo abierto">
@@ -348,13 +366,28 @@
             <img src="IMG_0691.jpg" alt="Vista del campo y sendero">
           </div>
           <div class="tile small">
-            <img src="IMG_0692.jpg" alt="Extensión del terreno con vegetación">
+            <img src="IMG_0692.jpg" alt="Extensión del terreno con
+  vegetación">
           </div>
           <div class="tile small">
             <img src="IMG_0693.jpg" alt="Vista del paisaje natural del lote">
           </div>
           <div class="tile small">
-            <img src="IMG_0694.jpg" alt="Terreno ideal para descanso y recreación">
+            <img src="IMG_0694.jpg" alt="Terreno ideal para descanso y
+  recreación">
+          </div>
+          <div class="tile small">
+            <img src="IMG_0696.jpg" alt="Vista natural de uno de los lotes">
+          </div>
+          <div class="tile small">
+            <img src="IMG_0700.jpg" alt="Vista amplia del terreno disponible">
+          </div>
+          <div class="tile small">
+            <img src="IMG_0960.jpg" alt="Paisaje del lote con entorno
+  abierto">
+          </div>
+          <div class="tile small">
+            <img src="IMG_0962.jpg" alt="Imagen del terreno en venta">
           </div>
         </div>
       </section>
@@ -363,17 +396,20 @@
         <div class="section-header">
           <h2>Experiencias Que Inspiran</h2>
           <p>
-            Explora, acampa, disfruta del amanecer y convierte cada visita en una escapada
-            diferente dentro de tu propio espacio.
+            Explora, acampa y disfruta de un entorno que invita al descanso,
+  la convivencia
+            y la aventura al aire libre.
           </p>
         </div>
 
         <div class="gallery">
           <div class="tile medium">
-            <img src="land_10.jpg" alt="Terreno con espacio para explorar y acampar">
+            <img src="land_10.jpg" alt="Terreno con espacio para explorar y
+  acampar">
           </div>
           <div class="tile large">
-            <img src="wildlife_view.jpg" alt="Vista natural con fauna y paisaje abierto">
+            <img src="wildlife_view.jpg" alt="Vista natural con fauna y
+  paisaje abierto">
           </div>
         </div>
       </section>
@@ -388,7 +424,8 @@
 
         <div class="video-frame">
           <iframe
-            src="https://drive.google.com/file/d/1RCnAt18aZtZuJiooEHwaxEjazsiTjS_v/preview"
+            src="https://drive.google.com/file/
+  d/1RCnAt18aZtZuJiooEHwaxEjazsiTjS_v/preview"
             allow="autoplay"
             title="Video del terreno"
             allowfullscreen>
@@ -400,13 +437,15 @@
         <div class="section-header" style="margin: 0 auto;">
           <h2>Las Tierras Land Investments</h2>
           <p>
-            Naturaleza, amplitud y una forma distinta de imaginar tu propio lugar.
+            Naturaleza, amplitud y una forma distinta de imaginar tu propio
+  lugar.
           </p>
         </div>
 
         <div class="gallery">
           <div class="tile small">
-            <img src="painting.PNG" alt="Ilustración inspirada en la naturaleza del lugar">
+            <img src="painting.PNG" alt="Ilustración inspirada en la
+  naturaleza del lugar">
           </div>
           <div class="tile small">
             <img src="entrance.jpg" alt="Entrada al terreno">
